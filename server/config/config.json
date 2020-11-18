@@ -1,0 +1,18 @@
+{
+  "development": {
+      "username": "ropperlc",
+      "password": "tG_CB2SCmyxQteGIol1KKt_SAlSX-skU",
+      "database": "ropperlc",
+      "host": "hattie.db.elephantsql.com",
+      "port": 5432,
+      "dialect": "postgres"
+  },
+  "test": {
+    "url": "postgres://ropperlc:tG_CB2SCmyxQteGIol1KKt_SAlSX-skU@hattie.db.elephantsql.com:5432/ropperlc",
+    "dialect": "postgres"
+  },
+  "production": {
+    "url": "postgres://ropperlc:tG_CB2SCmyxQteGIol1KKt_SAlSX-skU@hattie.db.elephantsql.com:5432/ropperlc",
+    "dialect": "postgres"
+  }
+}
